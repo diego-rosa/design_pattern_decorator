@@ -47,3 +47,7 @@
     <p>https://en.wikipedia.org/wiki/Decorator_pattern</p>
     <p>https://refactoring.guru/pt-br/design-patterns/decorator</p>
     <p>https://www.devmedia.com.br/design-patterns-implementando-os-padroes-decorator-e-singleton/24075</p>
+    <br>
+    <h2>Link da gravação sobre o Design Pattern Decorator</h2>
+    <p>https://drive.google.com/drive/folders/12CK9ebSPLAZmes3SMXSif8xzU0QMmz8f</p>
+   
